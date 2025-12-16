@@ -2,4 +2,4 @@
 
 This project implements a machine learning system for detecting future sales prediction
 
-The program needs to predict future sales using already having sales dataset so we use Linear Regression for predincting dependent variables from independent ones
+The program needs to predict future sales using already having sales dataset so we use Linear Regression for predicting dependent variables from independent ones
